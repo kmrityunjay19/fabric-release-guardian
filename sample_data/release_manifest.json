@@ -1,0 +1,9 @@
+{
+  "release_id": "REL-2026-042",
+  "change_reference": "CHG-2042",
+  "items": [
+    {"name": "Operations Lakehouse", "type": "Lakehouse", "change": "schema update"},
+    {"name": "Operations Semantic Model", "type": "SemanticModel", "change": "measure and RLS update"}
+  ],
+  "required_connections": ["operations-sql-prod"]
+}

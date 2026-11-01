@@ -1,0 +1,7 @@
+{
+  "name": "prod",
+  "workspace_id": "00000000-0000-0000-0000-000000000001",
+  "capacity_id": "00000000-0000-0000-0000-000000000002",
+  "connections": ["operations-sql-prod"],
+  "requires_change_reference": true
+}
